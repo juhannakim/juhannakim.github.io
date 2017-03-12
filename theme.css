@@ -8,3 +8,8 @@
     border: 3px solid #73AD21;
     padding: 70px;
 }
+
+img.resize{
+  width="200";
+  height="40";
+}
