@@ -69,9 +69,8 @@ body {
 
 h1 {
   display: block;
-  font: normal bold .15em/1.2 serif;
-  border: 1px;
-
+  font: normal bold 16px serif;
+  border: 4px;
 }
 
 a {
