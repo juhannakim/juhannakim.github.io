@@ -73,6 +73,12 @@ h1 {
   padding: 10px 3px 30px;
 }
 
+h2{
+  display: block;
+  font: normal bold 20px serif;
+  padding: 40px 10px 20px 0px
+}
+
 a {
   color: #f7f7f7;
   font-family: sans-serif;
