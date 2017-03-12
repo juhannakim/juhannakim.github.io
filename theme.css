@@ -13,4 +13,5 @@ img {
     display: block;
     margin: auto;
     width: 140%;
+    align-items: center;
 }
