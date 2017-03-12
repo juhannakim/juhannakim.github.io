@@ -9,7 +9,8 @@
     padding: 70px;
 }
 
-img.resize{
-  width="200";
-  height="40";
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
 }
