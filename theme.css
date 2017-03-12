@@ -4,6 +4,8 @@
 
 body {
   background: url("https://images.unsplash.com/photo-1483205464475-6204a96e1ef3?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .wrap {
