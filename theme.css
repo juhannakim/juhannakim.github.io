@@ -2,6 +2,9 @@
   display: none;
 }
 
+body {
+  background: linear-gradient(black,white);
+}
 
 .wrap {
     margin: auto;
