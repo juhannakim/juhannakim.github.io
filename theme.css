@@ -21,6 +21,9 @@ a {
   font-family: sans-serif;
 }
 
+a.sharelink {
+  color: blue;
+}
 img {
     display: block;
     margin: auto;
