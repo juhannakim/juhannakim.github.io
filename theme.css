@@ -104,7 +104,11 @@ p.intro {
   padding: 8px 10px 20px 0px;
 }
 
-
+a.toggle {
+  display: inline;
+  font: normal normal 17px/1.4 serif;
+  padding: 40px 70px 40px 70px;
+}
 
 a {
   color: #f7f7f7;
