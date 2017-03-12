@@ -24,3 +24,9 @@ img {
     align-self: center;
     display: block;
 }
+
+.design-wrap {
+  margin: auto;
+  display: block;
+  width: 50%;
+}
