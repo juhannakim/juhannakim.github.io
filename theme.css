@@ -17,10 +17,3 @@ img {
     width: 100%;
     align-self: center;
 }
-
-
-.img-wrap {
-    margin: auto;
-    align-self: center;
-    display: block;
-}
