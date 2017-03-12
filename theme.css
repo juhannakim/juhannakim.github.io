@@ -68,7 +68,9 @@ body {
 }
 
 h1 {
-  margin: auto;
+  display: inline;
+  font: normal bold .8em/1.2 Times, serif;
+  border: 1px;
 
 }
 
