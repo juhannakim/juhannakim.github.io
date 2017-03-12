@@ -79,6 +79,19 @@ h2.title {
    padding: 40px 10px 1px 0px;
 }
 
+h2.heading {
+  display: block;
+  font: normal bold 20px/1.4 sans-serif;
+  padding: 20px 10px 20px 0px;
+}
+
+
+p.p_wrap {
+  display: block;
+  font: normal normal 17px/1.4 serif;
+  padding: 2px 5px 5px 0px;
+}
+
 h3.date {
   display: block;
   font: normal normal 19px/1.4 serif;
@@ -90,6 +103,8 @@ p.intro {
   font: normal normal 17px/1.4 serif;
   padding: 8px 10px 20px 0px;
 }
+
+
 
 a {
   color: #f7f7f7;
