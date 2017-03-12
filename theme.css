@@ -19,8 +19,7 @@ img {
 }
 
 .footer {
-  display: inline;
+  display: block;
   margin: auto;
-  position: fixed;
   align-self: center;
 }
