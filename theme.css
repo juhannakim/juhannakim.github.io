@@ -11,6 +11,10 @@
     margin-top: 50px;
 }
 
+a {
+  color: #cd8b00;
+}
+
 img {
     display: block;
     margin: auto;
