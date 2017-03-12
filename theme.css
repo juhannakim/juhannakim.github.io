@@ -48,14 +48,15 @@ table {
 }
 
 
-#project1, #project2, #project3 {
-  display: none;
+body {
+  background:
+    url("https://images.unsplash.com/photo-1483205464475-6204a96e1ef3?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=")
+    no-repeat
+    fixed;
 }
 
-body {
-  background: url("https://images.unsplash.com/photo-1483205464475-6204a96e1ef3?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+#project1, #project2, #project3 {
+  display: none;
 }
 
 .wrap {
@@ -64,6 +65,11 @@ body {
     border: 2px solid #eeecec;
     padding: 70px;
     margin-top: 50px;
+}
+
+h1 {
+  margin: auto;
+
 }
 
 a {
