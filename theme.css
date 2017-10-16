@@ -53,7 +53,7 @@ body {
 	background: url("images/newbg.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: auto;
+	background-size: cover;
 }
 
 #project1, #project2, #project3 {
