@@ -50,10 +50,11 @@ table {
 
 
 body {
-	background: url("images/newbg.jpg");
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;
+  background: url(images/newbg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 #project1, #project2, #project3 {
