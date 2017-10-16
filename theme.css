@@ -51,7 +51,8 @@ table {
 
 body {
   background: url(images/newbg.jpg);
-  
+  background-size: cover;
+	background-repeat: no-repeat;
 }
 
 #project1, #project2, #project3 {
